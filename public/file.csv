@@ -1,0 +1,8 @@
+counter,name,surname,email,username,password,phone_number,category,tags,photo,birthday
+1,Igor,asdasdada,damjanac@gmail.com,a,dsadasdasdsdadasdsa,9879884991,Posao,,images/1617305023-asdasdsdasd.png,"1234-10-06 00:00:00"
+2,cxzcxcz,cxcz,cxcxz@cxcz.com,cxcz,cxzcz,212121,Posao,"Nauka
+Vojska",images/1617305876-cxzcxcz.jpg,"1984-02-16 00:00:00"
+3,dadds,dasdasdsadasdsad,damjanac@gmail.com,fgrterger,dasdasfsddf,51915651651,Posao,,images/1617478317-dadds.jpg,"1916-01-23 00:00:00"
+4,damjan,dasdasdasd,damjanac@gmail.com,wefefewfew,cwrewcwdcwcew,35465465435,Posao,Nauka,images/1617888372-damjan.png,"2021-04-15 00:00:00"
+5,ooooo,ooooooo,damjanac@gmail.com,hkhkhkhkh,dewdwewd,1651556,Posao,"Sport
+Vojska",images/1617912842-ooooo.jpg,"2020-12-25 00:00:00"
